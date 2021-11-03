@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\ALEX\Documents\ws-devsuperior\ws-revisao\.metadata\.plugins\org.eclipse.jdt.core
-3622499548.index
-1251219918.index
-4062405914.index
